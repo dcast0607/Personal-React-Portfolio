@@ -10,17 +10,14 @@
     background-color: black;
   }
   
-  .bucket-app {
+  .personal-portfolio-app {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    width: 800px;
-    min-height: 600px;
+    width: 100%;
+    min-height: 100%;
     background: black;
     text-align: center;
-    margin: 32px auto;
-    border-radius: 20px;
-    padding-bottom: 32px;
   }
   
   h1 {
