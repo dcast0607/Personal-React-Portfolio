@@ -1,4 +1,5 @@
 import './App.css';
+import MainPortfolioContainer from './components/MainPortfolioContainer';
 
 function App() {
   return (
