@@ -4,6 +4,10 @@ import Restaurant from '../images/RestaurantPicker.png';
 import MDGenerator from '../images/ReadMeGenerator.png';
 import WeatherApp from '../images/PersonalWeatherApp.png';
 
+// This page servers as the main content page for the end user
+// on this page, we display a few projects that have been worked on 
+// in the past and let the user click on those projects to get taken
+// to the repo or a demo of that project.
 const styles = {
     div:{
         alignItems: 'center',

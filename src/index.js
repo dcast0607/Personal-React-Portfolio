@@ -10,3 +10,5 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+// This is where our root element is defined. It brings in app from ./App to run it. 

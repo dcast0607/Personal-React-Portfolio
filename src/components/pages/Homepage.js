@@ -1,6 +1,13 @@
 import React from 'react';
 import profile from '../images/IMG7022.jpg';
 
+// This page is very simple, we display an image to the user
+// and some text. This lets them know who the developer is and
+// some basic information about that developer. 
+
+// The biggest take away from this file is that to display an
+// image we need to pass it as an object to the front-end. 
+
 const styles = {
     span: {
         fontSize: "20px",

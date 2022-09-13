@@ -1,6 +1,13 @@
 import React from 'react';
 import Resume from '../docs/resume.docx';
 
+// This page is very simple, what's happening here is that if the
+// user has clicked on contact me, they are taken to a page where
+// we display contact information. I also added a way to let the user
+// download a resume. 
+
+// We defined some base styles below.
+
 const styles = {
     h2: {
         fontSize: "30px",
@@ -13,7 +20,7 @@ const styles = {
 
     },
     contactDetails: {
-        
+
     }
 }
 
